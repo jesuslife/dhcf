@@ -1,6 +1,130 @@
 outs:
-- md5: 91415bf4f2cd4f1d247802d2b6beabbd.dir
-  size: 20466389
-  nfiles: 18
-  hash: md5
+- hash: md5
   path: data
+  files:
+  - relpath: gato/josh-couch-475167-unsplash.jpg
+    md5: 5cf96d27502e320fd0cb7b844ebc3f7f
+    size: 872426
+    cloud:
+      storage:
+        etag: 08d5c2afccdbdd81031001
+        version_id: '1696467950231893'
+  - relpath: gato/josh-couch-475167-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08d3a890ccdbdd81031001
+        version_id: '1696467949720659'
+  - relpath: gato/kamonnat-onnom-106416-unsplash.jpg
+    md5: 75904bea9f0c433d29739eb1a6e265ca
+    size: 3810228
+    cloud:
+      storage:
+        etag: 08a1b8c4ccdbdd81031001
+        version_id: '1696467950574625'
+  - relpath: gato/kamonnat-onnom-106416-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08d58f80ccdbdd81031001
+        version_id: '1696467949455317'
+  - relpath: gato/kari-shea-471277-unsplash.jpg
+    md5: fa0023171b94a0ab3cd6e85adc3eb198
+    size: 2405397
+    cloud:
+      storage:
+        etag: 0891bfa4ccdbdd81031001
+        version_id: '1696467950051217'
+  - relpath: gato/kari-shea-471277-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08c78f80ccdbdd81031001
+        version_id: '1696467949455303'
+  - relpath: gato/kevin-knezic-254586-unsplash.jpg
+    md5: 8f7e987393906035a5c985ae52409c22
+    size: 1668461
+    cloud:
+      storage:
+        etag: 08ea92d0cbdbdd81031001
+        version_id: '1696467948669290'
+  - relpath: gato/kevin-knezic-254586-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 0893afeccbdbdd81031001
+        version_id: '1696467949131667'
+  - relpath: gato/koen-eijkelenboom-353684-unsplash.jpg
+    md5: c3315a71bed27329de311d16e1fd103a
+    size: 2692679
+    cloud:
+      storage:
+        etag: 08b9b59fccdbdd81031001
+        version_id: '1696467949968057'
+  - relpath: gato/koen-eijkelenboom-353684-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08bdb891ccdbdd81031001
+        version_id: '1696467949739069'
+  - relpath: gato/kristin-lopez-416908-unsplash.jpg
+    md5: b81b98bcaffe93154579cf0cc89ff877
+    size: 1198387
+    cloud:
+      storage:
+        etag: 08fbcc9fccdbdd81031001
+        version_id: '1696467949971067'
+  - relpath: gato/kristin-lopez-416908-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08b4aa90ccdbdd81031001
+        version_id: '1696467949720884'
+  - relpath: gato/lily-lvnatikk-348257-unsplash.jpg
+    md5: 216ceb3aaf01d4afeadd9d3abb61d734
+    size: 4470625
+    cloud:
+      storage:
+        etag: 08cbc8b5ccdbdd81031001
+        version_id: '1696467950330955'
+  - relpath: gato/lily-lvnatikk-348257-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 0894f78eccdbdd81031001
+        version_id: '1696467949697940'
+  - relpath: gato/lucija-ros-538675-unsplash.jpg
+    md5: 613d3f3908500db576816665770218ef
+    size: 2244790
+    cloud:
+      storage:
+        etag: 08dd8fbdccdbdd81031001
+        version_id: '1696467950454749'
+  - relpath: gato/lucija-ros-538675-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08b4b6fdcbdbdd81031001
+        version_id: '1696467949411124'
+  - relpath: gato/zoltan-tasi-437454-unsplash.jpg
+    md5: b1d8ae3c80a17f5461983474155170e8
+    size: 1102712
+    cloud:
+      storage:
+        etag: 08c4e5afccdbdd81031001
+        version_id: '1696467950236356'
+  - relpath: gato/zoltan-tasi-437454-unsplash.jpg:Zone.Identifier
+    md5: 9c738a57c5184f640a6e16f922f28b58
+    size: 76
+    cloud:
+      storage:
+        etag: 08ca8e80ccdbdd81031001
+        version_id: '1696467949455178'
