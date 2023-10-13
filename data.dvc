@@ -114,6 +114,13 @@ outs:
       storage:
         etag: 08b4b6fdcbdbdd81031001
         version_id: '1696467949411124'
+  - relpath: gato/raw/empty
+    md5: d41d8cd98f00b204e9800998ecf8427e
+    size: 0
+    cloud:
+      storage:
+        etag: 08c9a1fcb5e7f181031001
+        version_id: '1697158319247561'
   - relpath: gato/zoltan-tasi-437454-unsplash.jpg
     md5: b1d8ae3c80a17f5461983474155170e8
     size: 1102712
